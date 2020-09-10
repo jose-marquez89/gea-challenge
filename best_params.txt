@@ -1,0 +1,1 @@
+{'weights': 'distance', 'p': 1, 'metric': 'manhattan', 'leaf_size': 40, 'algorithm': 'kd_tree'}

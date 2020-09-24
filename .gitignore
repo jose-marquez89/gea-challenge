@@ -130,3 +130,4 @@ dmypy.json
 
 # don't upload large csv's
 *.csv
+archived_submissions/
